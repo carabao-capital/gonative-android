@@ -10,9 +10,9 @@
         <!--Remove action bar shadow. We are managing it ourselves with the tabs.-->
         <item name="android:windowContentOverlay">@null</item>
 
-        <!--GoNative placeholder: colorPrimary-->
-        <!--GoNative placeholder: colorPrimaryDark-->
-        <!--GoNative placeholder: titleTextColor-->
+        <item name="colorPrimary">#1a8cff</item>
+        <item name="colorPrimaryDark">#005fd2</item>
+        <item name="android:textColorPrimary">#ffffff</item>
         <!--GoNative placeholder: colorAccent-->
     </style>
 
